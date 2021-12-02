@@ -34,6 +34,11 @@ yarn-error.log*
 .vercel
 
 amplify/team-provider-info.json
+amplify/backend/auth/redditclone994fa3f0/cli-inputs.json
+amplify/backend/backend-config.json
+amplify/backend/api/redditcloneapi/parameters.json
+amplify/backend/api/redditcloneapi/cli-inputs.json
+
 
 #amplify-do-not-edit-begin
 amplify/\#current-cloud-backend
